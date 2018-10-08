@@ -34,7 +34,7 @@ namespace Prework_Calculator
             return numOne * numTwo;
         }
         //Method to divide numbers
-        static int Divide(int numOne, int numTwo)
+        static decimal Divide(decimal numOne, decimal numTwo)
         {
             return numOne / numTwo;
         }
